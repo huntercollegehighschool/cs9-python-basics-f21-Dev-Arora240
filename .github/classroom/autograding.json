@@ -21,26 +21,6 @@
       "points": null
     },
     {
-      "name": "part2",
-      "setup": "",
-      "run": "python part2.py",
-      "input": "10",
-      "output": "100\r\n109",
-      "comparison": "included",
-      "timeout": 10,
-      "points": null
-    },
-    {
-      "name": "part3",
-      "setup": "",
-      "run": "python part3.py",
-      "input": "3\r\n7",
-      "output": "10\r\n49",
-      "comparison": "included",
-      "timeout": 10,
-      "points": null
-    },
-    {
       "name": "part4even",
       "setup": "",
       "run": "python part4.py",
